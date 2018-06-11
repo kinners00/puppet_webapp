@@ -1,4 +1,4 @@
-kinners00/puppet_webapp:
+kinners00/puppet_webapp1:
   Env:
     - PORT: "8080"
   PreBuild:
