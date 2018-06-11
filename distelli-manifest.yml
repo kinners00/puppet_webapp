@@ -1,6 +1,6 @@
 kinners00/puppet_webapp:
   Env:
-    - PORT: "8080"
+    - PORT: "8085"
   PreBuild:
     - sh -x scripts/pre_build.sh
   Build:
