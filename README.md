@@ -7,3 +7,4 @@
 Flask Puppet
 =================
 Example *FLASK* App
+test
